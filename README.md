@@ -46,9 +46,11 @@ siddharth1310.github.io/
 
 ## How to Use / Contribute
 
-1. Clone the repository:  
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/siddharth1310/siddharth1310.github.io.git
+   ```
+
 2. Open index.html in your browser to view the website locally.
 3. For updates, modify the relevant HTML, CSS, or JS files and push changes to GitHub.
