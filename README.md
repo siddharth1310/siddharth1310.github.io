@@ -23,14 +23,16 @@ The website is designed to **highlight my professional journey, skills, and proj
 ---
 
 ## Repository Structure
+
 siddharth1310.github.io/
-  - assets/ # CSS, JS, and other assets
-  - images/ # Images used in the website
-  - index.html # Main landing page
-  - elements.html # Page with UI elements and components
-  - generic.html # Generic page template
-  - Resume.html # Interactive resume page
-  - Siddharth Singh - Resume - 1946772.pdf # Downloadable resume
+
+- assets/ # CSS, JS, and other assets
+- images/ # Images used in the website
+- index.html # Main landing page
+- elements.html # Page with UI elements and components
+- generic.html # Generic page template
+- Resume.html # Interactive resume page
+- Siddharth Singh - Resume - 1946772.pdf # Downloadable resume
 
 ---
 
@@ -45,6 +47,7 @@ siddharth1310.github.io/
 ## How to Use / Contribute
 
 1. Clone the repository:  
+
    ```bash
    git clone https://github.com/siddharth1310/siddharth1310.github.io.git
 2. Open index.html in your browser to view the website locally.
